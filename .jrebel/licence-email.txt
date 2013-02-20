@@ -1,0 +1,60 @@
+from:	 ZeroTurnaround <support@zeroturnaround.com> 
+reply-to:	 sales-operations@zeroturnaround.com
+to:	 th@bieltvedtconsulting.no
+cc:	 invoice@zeroturnaround.com
+date:	 Thu, Jan 17, 2013 at 8:35 AM
+subject:	 JRebel License Key
+mailed-by:	 zeroturnaround.com
+
+
+ Dear Tor Håvard Bieltvedt,
+
+ Thank you for your purchase of JRebel! Below you will find useful
+ information and contact emails for any questions during your implementation
+ process.
+
+ *********************************************************************
+ WHAT YOU NEED TO GET STARTED >>>>>
+ *********************************************************************
+ 1) Your JRebel license keys are attached to this email. To use them, first
+ unpack the attached .zip file. Then, send the license keys to the users
+ listed on the individual license key files. Users should then save their
+ license key to ".jrebel" directory in the user's home folder. For instance,
+ C:/Users/username/.jrebel/jrebel.lic
+
+ 2) Here is a link to download the latest version of JRebel (if you don't
+ have it already):
+http://zeroturnaround.com/software/jrebel/download/
+
+ ********************************************************************
+ MORE DETAILS BELOW >>>>>
+ ********************************************************************
+
+ Product: JRebel Base Software License
+
+ Seats: 1 Seat
+ Order ID: ZT-127484
+ Licensed to:
+  * Tor Håvard Bieltvedt (th@bieltvedtconsulting.no)
+
+ Valid from: 17th of January, 2013
+ Valid until: 17th of January, 2014
+
+ The JRebel license agreement can be found here:
+http://zeroturnaround.com/software/jrebel/end-user-license-agreement/
+
+ For any installation/support issues please email support@zeroturnaround.com
+ to open a help ticket. Response time will be within 24 hours.
+
+ For any payment/invoice questions/issues please email
+sales-operations@zeroturnaround.com .
+
+ You will receive another email from ZeroTurnaround in a few days with
+ helpful hints, JRebel first aid, cool links to documentation, how to visit
+ our forum and more.
+
+ Regards,
+ ~
+ Ethan Schechter
+ Director of Sales	licenses.zip
+2K   View   Download
