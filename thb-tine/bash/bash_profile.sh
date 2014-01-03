@@ -8,7 +8,7 @@ fi
 ### Base directories ###
 DEV_SOFTWARE_HOME=/Users/THB-Tine/Dev-Software-Tine
 DEV_HOME=~/Dev
-GIT_REPOSITORIES_HOME=$DEV_HOME/Git-Repositories
+GITHUB_DIR=~/GitHub
 
 ### Home directories export ###
 #export JAVA_HOME=$DEV_SOFTWARE_HOME/Java/jdk1.6.0_38
@@ -40,21 +40,22 @@ alias jrcache='sh jetty.rebel.sh dev-sdbtest'
 
 ### Diverse ####
 alias bashrc='source "${HOME}/.bashrc"'
+alias   list='cat $SCRIPT_DIR/bash_profile.sh'
 
 
 ### Change directory ###
 alias   dev='cd $DEV_HOME'
-alias   tds='cd $GIT_REPOSITORIES_HOME/tine-dev-setup; bashrc'
-alias    gr='cd $GIT_REPOSITORIES_HOME'
-alias  reku='cd $GIT_REPOSITORIES_HOME/ReKu; bashrc'
-alias rekui='cd $GIT_REPOSITORIES_HOME/ReKu/reku-api/api-impl; bashrc'
-alias rekua='cd $GIT_REPOSITORIES_HOME/ReKu/reku-api; bashrc'
-alias rekud='cd $GIT_REPOSITORIES_HOME/ReKu/reku-domain; bashrc'
-alias rapps='cd $GIT_REPOSITORIES_HOME/buildtools/rekuapps; bashrc'
-alias  mink='cd $GIT_REPOSITORIES_HOME/minedata-kk; bashrc'
-alias rekuj='cd $GIT_REPOSITORIES_HOME/ReKu/reku-jobs; bashrc'
-alias rekub='cd $GIT_REPOSITORIES_HOME/ReKu/reku-jobs/batch; bashrc'
-alias  geno='cd $GIT_REPOSITORIES_HOME/geno; bashrc'
+alias   tds='cd $GITHUB_DIR/tine-dev-setup; bashrc'
+alias    gr='cd $GITHUB_DIR'
+alias  reku='cd $GITHUB_DIR/ReKu; bashrc'
+alias rekui='cd $GITHUB_DIR/ReKu/reku-api/api-impl; bashrc'
+alias rekua='cd $GITHUB_DIR/ReKu/reku-api; bashrc'
+alias rekud='cd $GITHUB_DIR/ReKu/reku-domain; bashrc'
+alias rapps='cd $GITHUB_DIR/buildtools/rekuapps; bashrc'
+alias  mink='cd $GITHUB_DIR/minedata-kk; bashrc'
+alias rekuj='cd $GITHUB_DIR/ReKu/reku-jobs; bashrc'
+alias rekub='cd $GITHUB_DIR/ReKu/reku-jobs/batch; bashrc'
+alias  geno='cd $GITHUB_DIR/geno; bashrc'
 
 ### Path ###
 # (Requires $JAVA_HOME and $GIT_HOME to be set)
